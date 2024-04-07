@@ -23,7 +23,6 @@ set(MODULE_INCLUDE
     ${OPUSENC_DIR}/include
     ${OPUSENC_DIR}/src
     ${OPUSENC_DIR}
-    ${OPUS_LIB_DIR}/include
     )
 
 set(MODULE_SRC
